@@ -2,11 +2,11 @@
 I am Ben Daws, a 14 year old developer from the USA. I mostly code in [C/++](https://github.com/btd2010#you-need-a-link-for-this-lol), [Carbon](https://github.com/carbon-language/carbon-lang), and [Lua](https://www.lua.org).
 
 ## My Projects
-- I am working on my own compiler based on Lua 5.4 with types and other features I want [here](https://github.com/btd2010/lua).
 - I experiment with the current development stages of Carbon.
   - [carbon-packages](https://github.com/btd2010/carbon-packages)
   - [carbon-experiments-repo](https://github.com/btd2010/carbon)
 - [My collection of C/++ header files](https://github.com/btd2010/h-hpp) I use on most of my projects.
+- [I am learning how to use Neovim](https://github.com/neovim/neovim) since I am a Lua developer. [Here are my configs / dotfiles](https://github.com/btd2010/neovim-configs)
 
 ## Languages
 <div>
