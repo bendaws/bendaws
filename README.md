@@ -2,6 +2,7 @@
 I am Ben Daws, a 14 year old developer from the USA. I mostly code in [C/++](https://github.com/btd2010#you-need-a-link-for-this-lol), [Carbon](https://github.com/carbon-language/carbon-lang), and [Lua](https://www.lua.org).
 
 ## My Projects
+- My programming language, [Ben-C](https://github.com/btd2010/benc) adds strings and other simple features to regular C.
 - I experiment with the current development stages of Carbon.
   - [carbon-packages](https://github.com/btd2010/carbon-packages)
   - [carbon-experiments-repo](https://github.com/btd2010/carbon)
