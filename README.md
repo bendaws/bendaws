@@ -16,6 +16,11 @@ Many computer users run a modified version of the GNU system every day, without 
 
 There really is a Linux, and these people are using it, but it is just a part of the system they use. Linux is the kernel: the program in the system that allocates the machine's resources to the other programs that you run. The kernel is an essential part of an operating system, but useless by itself; it can only function in the context of a complete operating system. Linux is normally used in combination with the GNU operating system: the whole system is basically GNU with Linux added, or GNU/Linux. All the so-called "Linux" distributions are really distributions of GNU/Linux.
 
+## Stuff I use
+<div>
+  <a href="https://github.com/zyedidia/micro"><img src="https://github.com/btd2010/btd2010/blob/main/micro-logo-mark.svg?raw=true" width=64 height=70></a>
+</div>
+
 ## Languages
 <div>
   <img src="https://github.com/btd2010/btd2010/blob/main/C_Logo.png?raw=true" width=64 height=70>
