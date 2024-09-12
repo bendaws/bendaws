@@ -23,13 +23,13 @@ There really is a Linux, and these people are using it, but it is just a part of
 `_:::    ::    :::_`
  .:( ^   :: ^   ):. 
  `:::   (..)   :::. 
- `:::::::UU:::::::`              yay gophers
+ `:::::::UU:::::::`    squeak! i'm a gopher! https://github.com/btd2010/gophersay
  .::::::::::::::::. 
  O::::::::::::::::O 
  -::::::::::::::::- 
  `::::::::::::::::` 
   .::::::::::::::.  
-    oO:::::::Oo     
+    oO:::::::Oo
 ```
 ## Stuff I use
 <div>
