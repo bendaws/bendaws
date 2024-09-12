@@ -3,6 +3,7 @@ I am Ben Daws, a 14 year old developer from the USA. I mostly code in [C/++](htt
 
 ## My Projects
 - My programming language, [Ben-C](https://github.com/btd2010/benc) adds strings and other simple features to regular C.
+- The [BSE](https://github.com/btd2010/bse) text editor.
 - I experiment with the current development stages of Carbon.
   - [carbon-packages](https://github.com/btd2010/carbon-packages)
   - [carbon-experiments-repo](https://github.com/btd2010/carbon)
