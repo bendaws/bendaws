@@ -1,15 +1,13 @@
 ## Hello
-I am Ben Daws, a 14 year old developer from the USA. I mostly code in [C/++](https://github.com/btd2010#you-need-a-link-for-this-lol), [Carbon](https://github.com/carbon-language/carbon-lang), and [Lua](https://www.lua.org).
+I am Ben Daws, a 14 year old developer from the USA. I mostly code in [C/++](https://github.com/bendaws#you-need-a-link-for-this-lol), [Carbon](https://github.com/carbon-language/carbon-lang), and [Lua](https://www.lua.org).
 
-![stats](https://github-readme-stats.vercel.app/api?username=btd2010)
+![stats](https://github-readme-stats.vercel.app/api?username=bendaws)
 
 ## My Projects
-- The [BSE](https://github.com/btd2010/bse) text editor.
+- The [Evalate](https://github.com/evalate/evalate) programming language.
 - I experiment with the current development stages of Carbon.
   - [carbon-packages](https://github.com/btd2010/carbon-packages)
   - [carbon-experiments-repo](https://github.com/btd2010/carbon)
-- [My collection of C/++ header files](https://github.com/btd2010/h-hpp) I use on most of my projects.
-- [I am learning how to use Neovim](https://github.com/neovim/neovim) since I am a Lua developer. [Here are my configs / dotfiles](https://github.com/btd2010/neovim-configs)
 
 ## My Bulletin Board
 I'd just like to interject for a moment. What you're referring to as Linux, is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.
@@ -23,7 +21,7 @@ There really is a Linux, and these people are using it, but it is just a part of
 `_:::    ::    :::_`
  .:( ^   :: ^   ):. 
  `:::   (..)   :::. 
- `:::::::UU:::::::`    squeak! i'm a gopher! https://github.com/btd2010/gophersay
+ `:::::::UU:::::::`    squeak! i'm a gopher! https://github.com/bendaws/gophersay
  .::::::::::::::::. 
  O::::::::::::::::O 
  -::::::::::::::::- 
@@ -33,15 +31,16 @@ There really is a Linux, and these people are using it, but it is just a part of
 ```
 ## Stuff I use
 <div>
-  <a href="https://github.com/zyedidia/micro"><img src="https://github.com/btd2010/btd2010/blob/main/micro-logo-mark.svg?raw=true" width=64 height=70></a>
+  <a href="https://github.com/zyedidia/micro"><img src="https://github.com/bendaws/bendaws/blob/main/micro-logo-mark.svg?raw=true" width=64 height=70></a>
 </div>
 
 ## Languages
 <div>
-  <img src="https://github.com/btd2010/btd2010/blob/main/C_Logo.png?raw=true" width=64 height=70>
-  <img src="https://raw.githubusercontent.com/btd2010/btd2010/45e29ef4bb0fd39eef4adba98169d1e3e34ec218/Lua-Logo.svg" width=70 height=70>
-  <img src="https://github.com/btd2010/btd2010/blob/main/cpp_logo.png?raw=true" width=64 height=70>
-  <img src="https://github.com/btd2010/btd2010/blob/main/Carbon_logo.png?raw=true" width=70 height=70>
-  <img src="https://github.com/btd2010/btd2010/raw/main/226051.webp" width=70 height=70>
-  <img src="https://github.com/btd2010/btd2010/blob/main/JavaScript-logo.png?raw=true" width=70 height=70>
+  <img src="https://github.com/bendaws/bendaws/blob/main/C_Logo.png?raw=true" width=64 height=70>
+  <img src="https://raw.githubusercontent.com/bendaws/bendaws/45e29ef4bb0fd39eef4adba98169d1e3e34ec218/Lua-Logo.svg" width=70 height=70>
+  <img src="https://github.com/bendaws/bendaws/blob/main/cpp_logo.png?raw=true" width=64 height=70>
+  <img src="https://github.com/bendaws/bendaws/blob/main/Carbon_logo.png?raw=true" width=70 height=70>
+  <img src="https://github.com/bendaws/bendaws/raw/main/226051.webp" width=70 height=70>
+  <img src="https://github.com/bendaws/bendaws/blob/main/JavaScript-logo.png?raw=true" width=70 height=70>
+  <img src="https://github.com/bendaws/bendaws/blob/main/evalate-lang.png?raw=true" width=70 height=70>
 </div>
